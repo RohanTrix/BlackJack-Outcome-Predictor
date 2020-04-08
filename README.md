@@ -23,7 +23,7 @@ y_pred = classifier.predict(X_test)
 ```
 
 ## :rocket: Results
-The `Confusion Matrix` plotted below gives an estimate of the true positives and flase negatives to help evaluate the performance of the model.
+The `Confusion Matrix` plotted below gives an estimate of the true positives and false negatives to help evaluate the performance of the model.
 
 ```python
 from sklearn.metrics import accuracy_score
