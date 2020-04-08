@@ -8,7 +8,7 @@ Given the sum of cards of a player in Blackjack, the model predicts the outcome 
 
 ## :gear: Implementation
 
-A `RandomForestClassfier` was used to achieve the results with an accuracy of 69%. However, other two classification models that were tried and discard were:
+A `RandomForestClassfier` was used to achieve the results with an accuracy of 69%. However, other two classification models that were tried and discarded were:
 
 Classifier | Accuracy
 ------------ | -------------
